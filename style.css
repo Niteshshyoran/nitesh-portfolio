@@ -241,8 +241,8 @@ section__text {
     cursor: pointer;
 }
 
-.btn-color-1:, 
-.btn-color-2:hover {
+.btn-color-1,
+ .btn-color-2:hover {
     background: rgb(53, 53, 53);
     color: white;
 }
@@ -347,8 +347,8 @@ section__text {
 article {
     display: flex;
     width: 10rem;
-    justify-content: space-around;
-    gap: 0.5rem;
+    justify-content: left;
+    gap: 0.7rem;
 }
 
 article .icon {

@@ -30,6 +30,13 @@ a,
 
 /* DESKTOP NAV  */
 
+#desktop-nav{
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background-color: gray;
+}
+
 nav,
 .nav-links{
     display: flex;

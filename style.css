@@ -34,7 +34,7 @@ a,
     position: sticky;
     top: 0;
     z-index: 1;
-    background-color: gray;
+    background-color: rgb(178, 181, 242);
 }
 
 nav,
